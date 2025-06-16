@@ -1,0 +1,72 @@
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.gradle/
+build/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx/
+
+# Gradle files
+.gradle/
+build/
+/*/build/
+/*/out/
+/*/*/build/
+/*/*/out/
+
+# Local configuration file
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio captures folder
+/captures/
+
+# External native build folder generated in Android Studio
+.externalNativeBuild/
+.cxx/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Profiling
+*.hprof
+
+# Compiled files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Proguard folder
+proguard/
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/

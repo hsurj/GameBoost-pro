@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">GameBoost Pro</string>
+    
+    <!-- Authentication -->
+    <string name="welcome_title">مرحباً بك في GameBoost Pro</string>
+    <string name="welcome_subtitle">حسّن تجربة الألعاب الخاصة بك مع أدوات شبكة متقدمة</string>
+    <string name="sign_in_with_google">تسجيل الدخول بحساب Google</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="continue_as_guest">المتابعة كضيف</string>
+    
+    <!-- Main Navigation -->
+    <string name="home">الرئيسية</string>
+    <string name="servers">الخوادم</string>
+    <string name="settings">الإعدادات</string>
+    <string name="performance">الأداء</string>
+    
+    <!-- Connection Status -->
+    <string name="connected">متصل</string>
+    <string name="disconnected">غير متصل</string>
+    <string name="connecting">جاري الاتصال...</string>
+    <string name="connection_status">حالة الاتصال</string>
+    
+    <!-- Server Selection -->
+    <string name="select_server">اختر الخادم</string>
+    <string name="auto_select">اختيار تلقائي</string>
+    <string name="server_location">موقع الخادم</string>
+    <string name="ping">البينغ</string>
+    <string name="load">الحمل</string>
+    
+    <!-- Performance -->
+    <string name="network_speed">سرعة الشبكة</string>
+    <string name="latency">زمن الاستجابة</string>
+    <string name="packet_loss">فقدان الحزم</string>
+    <string name="jitter">التذبذب</string>
+    
+    <!-- Settings -->
+    <string name="language">اللغة</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="auto_connect">اتصال تلقائي</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="about">حول</string>
+    
+    <!-- Language Options -->
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    
+    <!-- Game Detection -->
+    <string name="game_detected">تم اكتشاف لعبة</string>
+    <string name="optimizing_for_game">تحسين للعبة</string>
+    <string name="game_mode_active">وضع الألعاب نشط</string>
+    
+    <!-- Errors -->
+    <string name="connection_failed">فشل الاتصال</string>
+    <string name="server_unavailable">الخادم غير متاح</string>
+    <string name="network_error">خطأ في الشبكة</string>
+    <string name="authentication_failed">فشل المصادقة</string>
+    
+    <!-- Actions -->
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع الاتصال</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">موافق</string>
+    <string name="save">حفظ</string>
+    
+    <!-- Units -->
+    <string name="ms">م.ث</string>
+    <string name="mbps">م.ب/ث</string>
+    <string name="percent">٪</string>
+</resources>
