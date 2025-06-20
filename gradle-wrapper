@@ -1,0 +1,4 @@
+./gradlew wrapper
+git add gradle/wrapper/gradle-wrapper.jar
+git commit -m "إضافة gradle-wrapper.jar لحل مشكلة بناء CI"
+git push
